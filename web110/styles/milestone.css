@@ -1,0 +1,76 @@
+body {
+		margin: 0 50px 0 50px;
+		font-family: Georgia, serif;
+		background-color : lightgray;
+		font-size : 25px;
+		color: #e67e00;
+}
+h1 {
+		text-align : center;
+		color: #336600;
+}
+dt {
+		text-align : left;
+}
+h2 {
+		text-align : center;
+		font-weight : bold;
+}
+dd  {	
+		color: #336600;
+}
+. page	{
+		color: #336600;
+		text-align: center;
+}		
+dt {
+		text-align : left; 
+		font-weight : bold;
+		font-size: 30px;
+}
+footer p{
+		text-align : center;
+		color: #336600;
+		font-style: italic;
+}
+footer, nav {
+		text-align: center;
+		margin: 2px;
+		padding: .2em
+}
+header, footer	{
+		border: solid 4px #336600;
+}
+figure 	img{   
+		display : block;
+		margin-left : auto;
+		margin-right : auto;
+		width : 70%; 
+		font-weight: bold;
+		text-align : center;
+}
+figcaption {
+		text-align: center;
+		font-style: italic;
+		font-weight: strong;
+}
+a {
+		text-decoration: none;
+		color: #336600;
+}
+#logo {
+		float: left;
+		position: absolute;
+		top: 20px;
+		left:70px;
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+}
+		
+
+	
+	
+
+	
+		
